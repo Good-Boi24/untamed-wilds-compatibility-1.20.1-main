@@ -1,0 +1,252 @@
+{
+  "entities": [],
+  "items": [
+    {
+      "tag": "c:foods/berry"
+    },
+    {
+      "tag": "c:foods/bread"
+    },
+    {
+      "tag": "c:foods/fruit"
+    },
+    {
+      "tag": "c:foods/vegetable"
+    },
+    {
+      "item": "fossil:bennettitales_large",
+      "value": 30
+    },
+    {
+      "item": "fossil:bennettitales_small",
+      "value": 15
+    },
+    {
+      "item": "fossil:cephalotaxus",
+      "value": 15
+    },
+    {
+      "item": "fossil:crataegus",
+      "value": 35
+    },
+    {
+      "item": "fossil:cyathea",
+      "value": 60
+    },
+    {
+      "item": "fossil:dictyophyllum",
+      "value": 15
+    },
+    {
+      "item": "fossil:dillhoffia",
+      "value": 15
+    },
+    {
+      "item": "fossil:dipteris",
+      "value": 30
+    },
+    {
+      "item": "fossil:duisbergia",
+      "value": 30
+    },
+    {
+      "item": "fossil:ephedra",
+      "value": 25
+    },
+    {
+      "item": "fossil:fern_seed",
+      "value": 15
+    },
+    {
+      "item": "fossil:florissantia",
+      "value": 15
+    },
+    {
+      "item": "fossil:foozia",
+      "value": 30
+    },
+    {
+      "item": "fossil:horsetail_large",
+      "value": 30
+    },
+    {
+      "item": "fossil:horsetail_small",
+      "value": 15
+    },
+    {
+      "item": "fossil:licopodiophyta",
+      "value": 15
+    },
+    {
+      "item": "fossil:osmunda",
+      "value": 15
+    },
+    {
+      "item": "fossil:sagenopteris",
+      "value": 15
+    },
+    {
+      "item": "fossil:sarracenia",
+      "value": 30
+    },
+    {
+      "item": "fossil:vaccinium",
+      "value": 35
+    },
+    {
+      "item": "fossil:welwitschia",
+      "value": 15
+    },
+    {
+      "item": "fossil:zamites",
+      "value": 30
+    },
+    {
+      "item": "minecraft:air",
+      "value": 5
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "value": 15
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "value": 5
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:brown_mushroom",
+      "value": 15
+    },
+    {
+      "item": "minecraft:cake",
+      "value": 70
+    },
+    {
+      "item": "minecraft:cake",
+      "value": 70
+    },
+    {
+      "item": "minecraft:carrot",
+      "value": 75
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:chorus_flower",
+      "value": 40
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_plant",
+      "value": 20
+    },
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:grass",
+      "value": 5
+    },
+    {
+      "item": "minecraft:hay_block",
+      "value": 75
+    },
+    {
+      "item": "minecraft:kelp",
+      "value": 5
+    },
+    {
+      "item": "minecraft:lily_pad",
+      "value": 10
+    },
+    {
+      "item": "minecraft:melon",
+      "value": 50
+    },
+    {
+      "item": "minecraft:melon_seeds",
+      "value": 5
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:potato",
+      "value": 25
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:pumpkin",
+      "value": 40
+    },
+    {
+      "item": "minecraft:pumpkin_pie"
+    },
+    {
+      "item": "minecraft:pumpkin_seeds",
+      "value": 5
+    },
+    {
+      "item": "minecraft:red_mushroom",
+      "value": 15
+    },
+    {
+      "item": "minecraft:sugar",
+      "value": 7
+    },
+    {
+      "item": "minecraft:sugar_cane",
+      "value": 15
+    },
+    {
+      "item": "minecraft:sugar_cane",
+      "value": 15
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "value": 30
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:tall_grass",
+      "value": 10
+    },
+    {
+      "item": "minecraft:wheat",
+      "value": 13
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "value": 15
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "value": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+architectury {
+    common enabled_platforms.split(',')
+}
+
+loom {
+    accessWidenerPath = file("src/main/resources/fossil.accesswidener")
+}
+
+dependencies {
+    mappings loom.layered() {
+        officialMojangMappings()
+        parchment("org.parchmentmc.data:parchment-$parchment_mc_version:$parchment_date@zip")
+    }
+    // We depend on Fabric Loader here to use the Fabric @Environment annotations,
+    // which get remapped to the correct annotations on each platform.
+    // Do NOT use other classes from Fabric Loader.
+    modImplementation "net.fabricmc:fabric-loader:$fabric_loader_version"
+    // Remove the next line if you don't want to depend on the API
+    modApi "dev.architectury:architectury:$architectury_version"
+
+    modCompileOnly "software.bernie.geckolib:geckolib-forge-$minecraft_version:$gecko_lib_version"
+    compileOnly "com.eliotlash.mclib:mclib:20"
+    modCompileOnly "com.github.darkpred.morehitboxes:morehitboxes-common-$minecraft_version:$more_hitboxes_version"
+    modCompileOnly "com.github.glitchfiend:TerraBlender-common:$minecraft_version-$terra_blender_version"
+
+    //Optional
+    modCompileOnly "me.shedaniel:RoughlyEnoughItems-api:$rei_version"
+    modCompileOnly "me.shedaniel:RoughlyEnoughItems-default-plugin:$rei_version"
+    modCompileOnly "mezz.jei:jei-$minecraft_version-common-api:$jei_version"
+}
